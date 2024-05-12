@@ -20,7 +20,7 @@ SoftBeauty is more than just an e-commerce site; it's a virtual haven where fash
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/SoftBeauty.git
+    git clone https://github.com/RohitPal88/softbeauty.git
     ```
 
 2. **Open the Project:**
